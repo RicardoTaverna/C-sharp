@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GtZPCL41HYMxJt5d12KiopAXDU9Dtw13hFZa21yipeFiJ+LmgZus5QVO3PovOE73RSLydQmcMzLOfReYJhknuA==",
+  "success": true,
+  "projectFilePath": "/run/media/taverna/Storage/Programação/Estudo/C#/FundacaoBradesco/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/taverna/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.1/microsoft.aspnetcore.app.ref.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
